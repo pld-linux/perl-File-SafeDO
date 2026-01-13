@@ -8,7 +8,7 @@ Summary:	File::SafeDO - safer do file for perl
 Summary(pl.UTF-8):	File::SafeDO - bezpieczniejsze tworzenie plików dla perla
 Name:		perl-File-SafeDO
 Version:	0.12
-Release:	1
+Release:	2
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/File/%{pdir}-%{pnam}-%{version}.tar.gz
